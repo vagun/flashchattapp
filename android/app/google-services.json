@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "843737110657",
+    "project_id": "flash-chat-c5580",
+    "storage_bucket": "flash-chat-c5580.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843737110657:android:6c9b33fe723ea0448d9580",
+        "android_client_info": {
+          "package_name": "com.vagunbabbar.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843737110657-410ehke31j8kk56l323qc8sm0j469p8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqozSZAGibFLGw2qgR46k1MfdWrbbYVv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843737110657-410ehke31j8kk56l323qc8sm0j469p8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
